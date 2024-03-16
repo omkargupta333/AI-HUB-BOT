@@ -9,7 +9,6 @@ seaborn
 emojis
 wordcloud
 urlextract
-os
 PIL 
 dotenv 
 google.generativeai 
